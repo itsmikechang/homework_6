@@ -1,0 +1,28 @@
+
+#weathernav {
+    background-color: grey;
+}
+
+#inforight {
+    float: left;
+}
+
+#box {
+    height: 300px;
+    width: 100%;
+    background-color: aquamarine;
+}
+
+aside {
+    width: 20%;
+    height: 800px;
+    float: left;
+    font-style: italic;
+    background-color: lightgray;
+}
+
+#fiveday {
+    background-color: aqua;
+    height: 500px;
+}
+
