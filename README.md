@@ -1,5 +1,4 @@
-# homework_6
-Weather Dashboard
+# Weather Dashboard
 
 ## Description
 - I want to create a weather app that allows me to view a current/five day forecast of the location that I put in.
