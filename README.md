@@ -8,7 +8,6 @@ Weather Dashboard
 
 ## Screen Shot 
 ![Screen Shot](/app-screen-shot.png)
-
 https://github.com/itsmikechang/homework_6/blob/master/Screen%20Shot%202020-07-25%20at%206.51.30%20PM.png
 
 
