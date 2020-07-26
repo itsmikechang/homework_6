@@ -7,8 +7,9 @@ Weather Dashboard
 - The app should show me date, temp, humidity, uv index, and wind speed.
 
 ## Screen Shot 
-https://github.com/itsmikechang/homework_6/blob/master/Screen%20Shot%202020-07-25%20at%206.51.30%20PM.png
 ![Screen Shot](/app-screen-shot.png)
+
+https://github.com/itsmikechang/homework_6/blob/master/Screen%20Shot%202020-07-25%20at%206.51.30%20PM.png
 
 
 ## Tech Used
