@@ -18,5 +18,11 @@ Weather Dashboard
 - Moment.js
 - Open Weather API
 
+## Link To Deployed App
+https://itsmikechang.github.io/homework_6/
+
+## Link To Repo
+https://github.com/itsmikechang/homework_6
+
 
 
